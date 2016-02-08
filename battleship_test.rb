@@ -1,5 +1,10 @@
+
 require 'minitest/autorun'
 require 'minitest/pride'
+require './Player'
+require './HumanPlayer'
+require './ComputerPlayer'
+
 
 #Note: This line is going to fail first.
 require './battleship.rb'
